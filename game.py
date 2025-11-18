@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
 
+# ради теста
 attempts = 0
 target = random.randint(1, 100)
 
