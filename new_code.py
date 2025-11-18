@@ -1,2 +1,1 @@
-def do_smth():
-    pass
+print("Hello")
