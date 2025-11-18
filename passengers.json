@@ -1,0 +1,86 @@
+[
+  {
+    "full_name": "ррр",
+    "departure": "ррр",
+    "destination": "ррр",
+    "weight": 21.0
+  },
+  {
+    "full_name": "ррр",
+    "departure": "ррр",
+    "destination": "ррр",
+    "weight": 21.0
+  },
+  {
+    "full_name": "ррр",
+    "departure": "рр",
+    "destination": "рр",
+    "weight": 12.0
+  },
+  {
+    "full_name": "цур",
+    "departure": "ун",
+    "destination": "йун",
+    "weight": 1.0
+  },
+  {
+    "full_name": "цун",
+    "departure": "укш",
+    "destination": "фнык",
+    "weight": 34.0
+  },
+  {
+    "full_name": "выкорф",
+    "departure": "екпыо",
+    "destination": "евфо",
+    "weight": 6.0
+  },
+  {
+    "full_name": "ывео",
+    "departure": "куфг",
+    "destination": "фукег",
+    "weight": 6.0
+  },
+  {
+    "full_name": "фуег",
+    "departure": "феуг",
+    "destination": "фуег",
+    "weight": 6.0
+  },
+  {
+    "full_name": "феуг",
+    "departure": "феуг",
+    "destination": "егфу",
+    "weight": 6.0
+  },
+  {
+    "full_name": "ыгевеыг",
+    "departure": "веыгв",
+    "destination": "еыг",
+    "weight": 67.0
+  },
+  {
+    "full_name": "еышг",
+    "departure": "еывг",
+    "destination": "егыв",
+    "weight": 67.0
+  },
+  {
+    "full_name": "выег",
+    "departure": "еыгв",
+    "destination": "геыв",
+    "weight": 6.0
+  },
+  {
+    "full_name": "шевеыв",
+    "departure": "гшгевы",
+    "destination": "",
+    "weight": 76.0
+  },
+  {
+    "full_name": "еывг",
+    "departure": "еывг",
+    "destination": "еывг",
+    "weight": 7.0
+  }
+]
